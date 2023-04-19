@@ -15,14 +15,9 @@ I'm working on Kotlin Projects and other languages for school projects.<br>I'm t
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ipekbirinci&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=https://twitter.com/bbek444)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ipekbirinci&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ipekbirinci&icon=0&color=0)](https://visitcount.itsvg.in)
