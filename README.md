@@ -2,11 +2,23 @@
 
 
 
-- 🔭 I’m currently working on Kotlin Projets
+- 🔭 I’m currently working on Kotlin Projects.
 - 🌱 I’m currently learning Kotlib Basics and Jetpack Compose
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ipekbirinci&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+### :hammer_and_wrench: Languages and Tools :
+
+<div>
+  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
+
+
 
 
 - 📫 How to reach me: 
