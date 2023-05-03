@@ -1,6 +1,8 @@
 # 💫 About Me:
 Hello, I am a fourth-year computer engineering student. My passion lies in Kotlin Android development, and I have been honing my skills in this field by creating small-scale applications using Retrofit to make API calls.
+
 During my internship, I had the opportunity to work extensively with Jetpack Compose, a powerful framework for building Android UIs. In addition, I have experience working with C, C#, C++, as well as using Python for machine learning and artificial intelligence projects. And I've opportunity to learn some database languages like MySQL and PostgreSQL.
+
 I also possess knowledge and familiarity with mobile communication technologies, as well as some heuristic problem-solving algorithms. My language skills include fluency in English and some proficiency in German and Greek.
 With my diverse range of skills and experience, I am eager to take on new challenges and continue to grow both personally and professionally.
 
